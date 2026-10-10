@@ -5,7 +5,7 @@ PBO Coding Practice SEMESTER 3
 
 ## Authors
 
-- [@Muhammad Ruhiyat](https://www.github.com/memetgaming07)
+- [@Muhammad Ruhiyat](https://www.github.com/madruhiyat)
 
 
 ## Documentation
